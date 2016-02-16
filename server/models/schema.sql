@@ -5,6 +5,8 @@
 -- ***** CHANGE THIS TO THE PATH TO THIS FILE IN *YOUR* FILE SYSTEM *****
  -- command to file to run in psql: \i /Users/msandusky/desktop/thesis/ambivalent-acacia/server/models/schema.sql
 -- \i /Users/krisalbert/Documents/HackReactor/ambivalent-acacia/server/models/schema.sql
+-- \i /Users/honree/ambivalent-acacia/server/models/schema.sql
+
 
 drop database thumbscheck;
 
