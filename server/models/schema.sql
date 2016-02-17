@@ -8,11 +8,11 @@
 -- \i /Users/honree/ambivalent-acacia/server/models/schema.sql
 
 
-drop database thumbscheck;
+-- drop database thumbscheck;
 
-CREATE DATABASE thumbscheck;
+-- CREATE DATABASE thumbscheck;
 
-\c thumbscheck
+-- \c thumbscheck
 
 CREATE TABLE users (
   id serial PRIMARY KEY,
